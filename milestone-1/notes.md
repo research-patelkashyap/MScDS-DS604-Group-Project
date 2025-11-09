@@ -10,7 +10,7 @@ To design a relational database that stores and enables analysis of arXiv resear
 
 ## Dataset Description
 
-**Link to Dataset:** https://huggingface.co/datasets/CShorten/ML-ArXiv-Papers, https://www.kaggle.com/datasets/Cornell-University/arxiv
+**Link to Dataset:** https://huggingface.co/datasets/arxiv-community/arxiv_dataset, https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 The dataset contains about 2 million research papers collected from arXiv. Each paper record includes basic details such as paper ID, title, authors, abstract, and research categories. It also provides extra information like comments, journal references, DOIs, report numbers, and licenses (though many of these are missing for some papers). The dataset also includes the date when each paper was last updated, and structured details about versions and authors. 
 
